@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+i am just idot
 
 **Estay123/Estay123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
